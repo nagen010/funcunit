@@ -20,7 +20,7 @@ FuncUnit has two dependencies:
 
 ## How to get FuncUnit
 
-You can download [funcunit.js](/dist/latest/funcunit.js), or install as a bower component or npm package:
+You can download [funcunit.js](https://github.com/bitovi/funcunit/blob/master/funcunit.js), or install as a bower component or npm package:
 
     bower install funcunit
 
@@ -37,7 +37,7 @@ If using from NPM you can `require` FuncUnit in your application if you're using
 
 This will attach `QUnit` to be your test runner. FuncUnit works with QUnit, Jasmine, and Mocha.
 
-All examples below can be downloaded [here](/dist/examples.zip).
+All examples below can be downloaded [here](https://github.com/bitovi/funcunit/tree/master/site/examples).
 
 ## Intro to Funcunit
 
@@ -185,6 +185,6 @@ test('clicking one tab then another', function() {
 
 Hopefully, this guide illustrates how FuncUnit provides the holy grail of testing: easy, familiar syntax, in browser running for easy debugging and simple automation.
 
-FuncUnit transforms your development lifecycle, gives your developers confidence and improves quality. For a more complex example with module loaders and multiple widgets, download the [examples package](/dist/examples.zip) and view the Srchr app's tests.
+FuncUnit transforms your development lifecycle, gives your developers confidence and improves quality. For a more complex example with module loaders and multiple widgets, download the [examples package](https://github.com/bitovi/funcunit/tree/master/site/examples) and view the Srchr app's tests.
 
 That's it! If you want to learn more, read about FuncUnit's [FuncUnit API](/docs).
